@@ -4,6 +4,12 @@ A simplified idle clicker game built in Unity, where the player taps to collect 
 
 ---
 
+## 🎥 Demo
+
+▶️ [Watch Gameplay Video](https://drive.google.com/file/d/1sU2UlPEbZ0yA1nzylmjkOZfNeFeE0Flk/view?usp=sharing)
+
+---
+
 ## 📌 Project Summary
 
 - Built using Unity 6000.0.31f1 LTS
@@ -41,8 +47,8 @@ A simplified idle clicker game built in Unity, where the player taps to collect 
 
 > `score = i × 2^(i + j)`
 
-- `i`: current coin streak
-- `j`: number of bombs in the grid
+- `i`: current coin streak  
+- `j`: number of bombs in the grid  
 - This encourages streak-based accuracy and penalizes bomb density
 
 ### 🧱 Box Count Per Level
