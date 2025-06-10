@@ -13,7 +13,7 @@ A simplified idle clicker game built in Unity, where the player taps to collect 
 
 > Below are some gameplay screenshots captured from the current build:
 
-![Screenshot 1](.Screenshot/Assets.jpeg)
+![Screenshot 1](.Screenshot/Assets.JPEG)
 
 
 
