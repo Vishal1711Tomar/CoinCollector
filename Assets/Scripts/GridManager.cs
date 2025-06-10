@@ -59,7 +59,7 @@ public class GridManager : MonoBehaviour
         //  bomb probability
         float bombChance = Mathf.Min(0.3f + 0.05f * level, 0.6f); // no if wrong  button probability in an layer
 
-        for (int i = 0; i < totalBoxes; i++)
+        for (int i = 0; i < totalBoxes ;  i++)
         {
             GameObject boxObj = Instantiate(boxPrefab, gridParent);
             BoxController box = boxObj.GetComponent<BoxController>();
